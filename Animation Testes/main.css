@@ -1,0 +1,9 @@
+.buddy {
+    transform: scaleX(1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 100px;
+    transition: all 0.1s;
+}
